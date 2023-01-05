@@ -10,7 +10,7 @@ interactive PowerBI dashboard to asses the Churners profile on
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1mW8iPUEgKnu45SSu3cvBMHc8bWIXDzZe/view?usp=share_link)
+## Dashboard ![](https://drive.google.com/file/d/1mW8iPUEgKnu45SSu3cvBMHc8bWIXDzZe/view?usp=share_link)
 
 
 ## Insights Gained
