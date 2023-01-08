@@ -29,7 +29,7 @@ Churn = ['0','1']
 
 
 
-telco = pd.read_pickle('telco (1).pkl')
+telco = pd.read_pickle('telco_pkl')
 #pipe = pickle.load(open('pipe.pkl','rb'))
 st.title('Telecom Customer Churn Predictor')
 #Tenure = st.number_input('**Tenure**', min_value = 1, max_value = 72)
