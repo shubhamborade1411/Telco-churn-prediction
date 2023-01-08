@@ -12,6 +12,8 @@ interactive PowerBI dashboard to asses the Churners profile on
 
 ## Dashboard ![](https://github.com/shubhamborade1411/Telco-churn-prediction/blob/main/Screenshot%20(851).png)
 
+## Deployed App ![](https://github.com/shubhamborade1411/Telco-churn-prediction/blob/main/Deployed%20App.png)
+
 
 ## Insights Gained
 
